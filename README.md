@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Codwears badge](https://www.codewars.com/users/sergeistetsko/badges/large?theme=light)](https://www.codewars.com/users/sergeistetsko)
 <!--
 **sergeistetsko/sergeistetsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
